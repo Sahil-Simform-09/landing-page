@@ -1,0 +1,5 @@
+angular_logo -> https://angular.io/assets/images/logos/angular/shield-large.svg
+angular_img -> https://angular.io/assets/images/logos/angular/angular.svg
+workAtAnyScale_img -> https://angular.io/generated/images/marketing/home/any-size.svg
+lovedByMillions_img -> https://angular.io/generated/images/marketing/home/loved-by-millions.svg
+BuildForEveryOneimg -> https://angular.io/generated/images/marketing/home/build-for-everyone.svg
